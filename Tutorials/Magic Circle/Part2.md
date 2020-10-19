@@ -22,7 +22,7 @@ So to start, lets do some basic sprites that continiously spawn on the ground:
 - add an emitter: `Emit continously`.  Leave it at default properties for now.
 - add a renderer: `Render sprites`. Leave it at default properties for now.
 - add decay: `Lifespan decay`.
-- spawn it: `Emit withing sphere random`. Leave `distance min` at **0** and set `distance max` to a higher value of your liking. In `distance bias` set the *Z*-coordinate to **0**, so the particles will all spawn at the same height.
+- spawn it: `Position within sphere random`. Leave `distance min` at **0** and set `distance max` to a higher value of your liking. In `distance bias` set the *Z*-coordinate to **0**, so the particles will all spawn at the same height.
 
 </details>
 
